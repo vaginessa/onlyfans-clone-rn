@@ -1,0 +1,12 @@
+{
+  "name": "onlyfans-clone-rn",
+  "displayName": "onlyfans-clone-rn",
+  "expo": {
+    "name": "onlyfans-clone-rn",
+    "slug": "onlyfans-clone-rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
